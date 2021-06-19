@@ -1,0 +1,67 @@
+#cidade_interna{
+ background-color: blueviolet;
+ width: 500px;
+ height: 500px;
+ margin: auto;
+ border-radius: 100px;
+ 
+
+}
+#cidade{
+    background-color: rgba(63, 1, 122, 0);
+    width: 600px;
+    height: 600px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    position: absolute;
+}
+#madeira{
+    position: relative;
+    top:10px;
+    left: 10px;
+}
+#ferro{
+    position: relative;
+    top:510px;
+    left: 10px;
+}
+#barro{
+    position: relative;
+    top:-110px;
+    left:550px;
+}
+#cereal{
+    position: relative;
+    top:470px;
+    left: 550px;
+}
+#central{
+margin: auto;
+top: 230px;
+}
+#academia{
+top:100px;
+left: 120px;
+}
+#armazem{
+top: 100px;
+left: 350px;
+}
+.recurso{
+    width: 40px;
+    height: 40px;
+    background-color: brown; 
+    position: relative;
+    text-align: center;
+       
+}
+#recursos{
+    background-color: rgb(64, 1, 122);
+    width: 600px;
+    height: 600px;
+
+    position: absolute;   
+}
